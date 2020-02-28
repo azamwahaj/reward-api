@@ -254,4 +254,4 @@ vendor/bin/phpunit
 ### References
 - [Lumen micro-framework](https://lumen.laravel.com/)
 - [JSON API](http://jsonapi.org/)
-- [Guzzle, PHP HTTP client](http://docs.guzzlephp.org/en/stable/index.html#)
+- [Guzzle, PHP HTTP client](http://docs.guzzlephp.org/en/stable/index.html)

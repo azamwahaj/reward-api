@@ -24,6 +24,7 @@
 - `cp .env.example .env`
 - `Edit .env and change your mysql host with your docker machine ip`
 - `Edit .env and change "USER_ENDPOINT" with your user service endpoint`
+- `change permission to 777 outside from docker container "chmod -R 777 storage"`
 - `Shell into the PHP container, "$ docker-compose exec php-fpm bash"`
 - `composer install`
 - `php artisan migrate`
